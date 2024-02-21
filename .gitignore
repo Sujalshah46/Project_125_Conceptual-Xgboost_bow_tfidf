@@ -1,0 +1,9 @@
+
+# System & Temporary Files
+.DS_Store
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+
+# Large Files (>50MB) Ignored
+train_Project_125_(Conceptual) Xgboost_bow_tfidf.csv
